@@ -1,0 +1,19 @@
+body {
+  background-color: #62b6b7;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: skyblue;
+  border-width: 8px;
+  width: 20%;
+}
+h1 {
+  color: rgb(5%, 50%, 35%);
+}
+h3 {
+  color: burlywood;
+}
+h4 {
+  color: green;
+}
